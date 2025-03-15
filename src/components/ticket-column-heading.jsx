@@ -1,6 +1,6 @@
 import { getRandomHexColor, getInitials } from "../Utlis/color_initials";
 import add from "../assets/icons_FEtask/add.svg";
-import threedot from "../assets/icons_FEtask/3 dot menu.svg";
+import threedot from "../assets/icons_FEtask/three-dot menu.svg";
 import groupImages from "../Utlis/group-images";
 export default function TicketColumnHeading({
 	groupName,
